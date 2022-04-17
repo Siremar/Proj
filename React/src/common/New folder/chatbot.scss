@@ -1,0 +1,21 @@
+/*
+Nirwani Shivam       1001923706
+Kataria Kartik       1001944865
+Upadhyay Sunil Akash 1001957955
+*/
+#chatbot{
+    width: 300px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+    .chat-popup{
+        display: none;
+        .cancel{
+            position: absolute;
+            top:0;
+            right:5px;
+        }
+    }
+    border:2px solid #a5a5a5;
+}
